@@ -8,7 +8,6 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
-  - jupyter
   - pip
   - pip:
     - sqlalchemy
