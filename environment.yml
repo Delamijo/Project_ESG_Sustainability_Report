@@ -9,6 +9,7 @@ dependencies:
   - matplotlib
   - seaborn
   - scipy
+  - scikit-learn
   - pip
   - pip:
     - sqlalchemy
